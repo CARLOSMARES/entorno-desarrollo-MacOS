@@ -24,3 +24,7 @@
 - Angular
 - Ionic
 - Typescript
+
+### Fonts
+
+- [Cascadia Code](https://gist.github.com/skylock/df4de48ae6a0d7540dad13c375c4b79f)
