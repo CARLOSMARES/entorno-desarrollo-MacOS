@@ -18,6 +18,7 @@
 - [Github CLI (gh)](https://cli.github.com)
 - [Postman](https://www.postman.com/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Docker](https://www.docker.com/)
 
 ### Lista de Frameworks
 
